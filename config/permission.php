@@ -208,5 +208,5 @@ return [
             'delete' => 'delete account',
         ],
 
-    ]
+    ],
 ];
